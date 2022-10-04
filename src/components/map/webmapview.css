@@ -1,0 +1,12 @@
+ #info {
+	background-color: white;
+	opacity: 1.0;
+	color: black;
+	font-size: 16pt;
+	padding: 10px;
+	visibility: hidden;
+}
+	  
+.webmap {
+  	min-height: 90vh;
+}
